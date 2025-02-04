@@ -7,3 +7,4 @@ print("head",df.head())
 print("tail",df.tail())
 print(df.to_string())
 
+print(df)
