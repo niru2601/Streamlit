@@ -6,5 +6,5 @@ df = pd.read_csv('D:\Resume\selected.csv', usecols=[0,4])
 print("head",df.head())
 print("tail",df.tail())
 print(df.to_string())
-print
+
 print(df)
